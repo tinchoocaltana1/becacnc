@@ -1,0 +1,12 @@
+# Ignorar node_modules en todos los niveles
+node_modules/
+client/node_modules/
+backend/node_modules/
+
+# Ignorar build de Vite
+client/dist/
+
+# Otros comunes
+.env
+.DS_Store
+*.log

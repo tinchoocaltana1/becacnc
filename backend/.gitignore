@@ -1,0 +1,6 @@
+# Ignorar node_modules en todos los niveles
+node_modules/
+
+# Otros comunes
+.DS_Store
+*.log
